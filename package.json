@@ -1,0 +1,13 @@
+{
+  "name": "@reflect.bridged.xyz/ui-generator",
+  "version": "0.0.1",
+  "description": "reflect ui generator",
+  "main": "index.js",
+  "repository": "https://github.com/bridgedxyz/reflect-ui-generator.git",
+  "author": "bridged.xyz, reflect-ui authors",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@reflect.bridged.xyz/core": "0.0.1"
+  }
+}
