@@ -1,0 +1,1 @@
+## Local icons definitions & svg data set.
