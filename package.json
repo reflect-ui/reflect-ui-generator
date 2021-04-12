@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@reflect.bridged.xyz/core": "0.0.1"
+    "@reflect-ui/core": "0.0.2-rc.7"
   }
 }
