@@ -4,10 +4,10 @@
   "description": "reflect ui generator",
   "main": "index.js",
   "repository": "https://github.com/bridgedxyz/reflect-ui-generator.git",
-  "author": "bridged.xyz, reflect-ui authors",
+  "author": "Grida.co, reflect-ui authors",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@reflect-ui/core": "0.0.2-rc.7"
+    "@reflect-ui/core": "0.0.2-rc.7-local"
   }
 }
