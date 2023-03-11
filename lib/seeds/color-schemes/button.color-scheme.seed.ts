@@ -1,4 +1,4 @@
-import { ButtonColorScheme } from "@reflect-ui/core/lib/theme/color-schemes";
+import { ButtonColorScheme } from "@reflect-ui/core/dist/theme/color-schemes";
 
 export const BUTTON_COLOR_SCHEMES_SET: Array<ButtonColorScheme> = [
   {

@@ -1,4 +1,4 @@
-import { Color } from "@reflect-ui/core/lib/color";
+import { Color } from "@reflect-ui/core";
 
 export const BUTTON_BASE_GRADIENTS_SET: {
   colors: Color[];
